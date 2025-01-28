@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <CharacterEditor />
+      <div id="floor" class="floor" />
       <Footer />
     </>
   );
