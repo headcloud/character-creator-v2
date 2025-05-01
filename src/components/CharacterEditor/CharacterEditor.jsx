@@ -76,8 +76,7 @@ function App() {
             handleSelectOption={setClothesColor}
           />
         </div>
-      </MaxWidthWrapper>
-
+     </MaxWidthWrapper>
       <div className={styles.characterWrapper}>
         <Character
           body={body}
